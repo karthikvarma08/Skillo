@@ -148,7 +148,7 @@ skillbridge/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Yashwanth-009/skillsync.git
+   git clone https://github.com/karthikvarma08/skillsync.git
    cd skillsync
    ```
 
@@ -205,7 +205,7 @@ npx cap sync android
 npx cap open android
 ```
 
-Alternatively, download pre-built APK releases directly from the [SkillSync Official Showcase Website](https://github.com/Yashwanth-009/skillsync).
+Alternatively, download pre-built APK releases directly from the [SkillSync Official Showcase Website]((https://github.com/karthikvarma08/Skillo)).
 
 ---
 
@@ -229,4 +229,4 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ## 👨‍💻 Author & Maintainer
 
 - **GitHub**: [@karthikvarma08](https://github.com/karthikvarma08)
-- **Repository**: [https://github.com/Yashwanth-009/skillsync](https://github.com/Yashwanth-009/skillsync)
+- **Repository**: [https://github.com/karthikvarma08/skillsync]((https://github.com/karthikvarma08/Skillo))
