@@ -228,5 +228,5 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ## 👨‍💻 Author & Maintainer
 
-- **GitHub**: [@Yashwanth-009](https://github.com/Yashwanth-009)
+- **GitHub**: [@karthikvarma08](https://github.com/karthikvarma08)
 - **Repository**: [https://github.com/Yashwanth-009/skillsync](https://github.com/Yashwanth-009/skillsync)
