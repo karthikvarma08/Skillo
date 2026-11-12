@@ -205,7 +205,7 @@ npx cap sync android
 npx cap open android
 ```
 
-Alternatively, download pre-built APK releases directly from the [SkillSync Official Showcase Website]((https://github.com/karthikvarma08/Skillo)).
+Alternatively, download pre-built APK releases directly from the [SkillSync Official Showcase Website](https://github.com/karthikvarma08/Skillo).
 
 ---
 
@@ -229,4 +229,4 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ## 👨‍💻 Author & Maintainer
 
 - **GitHub**: [@karthikvarma08](https://github.com/karthikvarma08)
-- **Repository**: [https://github.com/karthikvarma08/skillsync]((https://github.com/karthikvarma08/Skillo))
+- **Repository**: [https://github.com/karthikvarma08/skillo](https://github.com/karthikvarma08/Skillo)
